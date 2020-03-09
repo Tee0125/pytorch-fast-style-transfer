@@ -1,0 +1,1 @@
+from .style_transfer_loss import StyleTransferLoss
